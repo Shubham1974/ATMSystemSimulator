@@ -119,12 +119,6 @@ Modify table definitions to match your code.
 * Use the "Deposit" and "Withdraw" forms to update account balances.
 * View account mini statement / transaction history from the "Mini Statement" form.
 
-## Screenshots
-
-Add screenshots to the `/Screenshots` folder and reference them here. Example:
-
-![Login screen](Screenshots/login.png)
-
 ## Contributing
 
 1. Fork the repository
