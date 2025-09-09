@@ -17,7 +17,8 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Author](#author)
-
+* [Screenshots](#author)
+  
 ---
 
 ## Features
@@ -142,12 +143,54 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 Shubham Bhagwan Mukhekar
 
-Contact: add your email or GitHub profile link here
+Contact: mshubham2503@gmail.com
 
----
+## Screenshots
 
-**Tips before uploading to GitHub**
+### Home Page
 
-* Add a `.gitignore` (Visual Studio template) to avoid committing `bin/`, `obj/`, and user-specific files.
-* If your `.mdf` contains sensitive test data, remove or sanitize it before publishing.
-* Add a short demo GIF or screenshots to make the repo attractive to recruiters.
+![Home Page](<img width="1395" height="898" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/ee8cd478-f911-4477-8973-5e988cb9e839" />)
+
+### Login Page
+![Login Page](<img width="1490" height="760" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/665404d4-7ff8-4a66-8b0d-7e755064bfc8" />)
+
+
+### Account Details
+![Account Details](<img width="1949" height="1262" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/905401b1-20cd-4128-a601-89c8c6990375" />)
+
+
+### Transaction Menu
+
+![Transaction Menu](<img width="1580" height="982" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/36c0a892-3a08-4883-af19-ec6470883fae" />)
+
+### Deposit Page
+
+![Deposit Page](<img width="1218" height="821" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/846aa4ed-04ae-4947-9e73-0ad3fb8ad4d1" />)
+
+### Balance Page
+
+![Deposit Page](<img width="1430" height="861" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/28cd6ea2-e24c-4b43-8616-2caf40cb7757" />)
+
+
+### Withdraw Page
+
+![Deposit Page](<img width="1243" height="798" alt="Screenshot 2025-09-09 164906" src="https://github.com/user-attachments/assets/5b5ff29f-e28b-469d-a754-9a4ddf80a6be" />)
+
+### FreeCash Page
+
+![Deposit Page](<img width="1607" height="1020" alt="Screenshot 2025-09-09 164919" src="https://github.com/user-attachments/assets/53b3c1b5-5793-4917-927f-4fa54d054e43" />)
+
+### MiniStatement Page
+
+![Deposit Page](<img width="1606" height="1025" alt="Screenshot 2025-09-09 164931" src="https://github.com/user-attachments/assets/62bda9fd-5adc-481b-858a-5024a073d476" />)
+
+### MiniStatement Page
+
+![Deposit Page](<img width="1361" height="821" alt="Screenshot 2025-09-09 164947" src="https://github.com/user-attachments/assets/ed0bf57c-a4fd-4f94-ab96-6f57475d592b" />)
+
+
+
+
+
+
+
