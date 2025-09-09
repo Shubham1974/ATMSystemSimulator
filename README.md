@@ -103,25 +103,6 @@ CREATE TABLE TransactionTbl (
 * Use the "Deposit" and "Withdraw" forms to update account balances.
 * View account mini statement / transaction history from the "Mini Statement" form.
 
-## Contributing
-
-1. Fork the repository
-2. Create a branch: `git checkout -b feature/YourFeature`
-3. Commit your changes: `git commit -m "Add some feature"`
-4. Push to the branch: `git push origin feature/YourFeature`
-5. Open a Pull Request
-
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-Shubham Bhagwan Mukhekar
-
-Contact: mshubham2503@gmail.com
-
 ## Video
 [Watch Demo Video](https://drive.google.com/file/d/1uT0UD4Lki7AvdWouwRLVOZilRlEUSFnb/view?usp=sharing)
 
@@ -157,3 +138,20 @@ Contact: mshubham2503@gmail.com
 ### MiniStatement Page (Alt)
 ![MiniStatement Page 2](https://github.com/user-attachments/assets/ed0bf57c-a4fd-4f94-ab96-6f57475d592b)
 
+## Contributing
+
+1. Fork the repository
+2. Create a branch: `git checkout -b feature/YourFeature`
+3. Commit your changes: `git commit -m "Add some feature"`
+4. Push to the branch: `git push origin feature/YourFeature`
+5. Open a Pull Request
+
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+Shubham Bhagwan Mukhekar
+Contact: mshubham2503@gmail.com
