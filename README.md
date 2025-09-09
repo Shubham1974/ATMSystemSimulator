@@ -141,7 +141,7 @@ Shubham Bhagwan Mukhekar
 Contact: mshubham2503@gmail.com
 
 ## Video
-[![Watch Demo](screenshots/demo-thumbnail.png)](https://drive.google.com/file/d/1uT0UD4Lki7AvdWouwRLVOZilRlEUSFnb/view?usp=sharing)
+[Watch Demo Video](https://drive.google.com/file/d/1uT0UD4Lki7AvdWouwRLVOZilRlEUSFnb/view?usp=sharing)
 
 ## Screenshots
 
