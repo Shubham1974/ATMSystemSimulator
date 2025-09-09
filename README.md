@@ -31,8 +31,6 @@
 * Balance enquiry
 * Simple validation and user prompts
 
-> Note: Feature availability depends on which forms you include in the repository (e.g., `MiniStatement`, `Account`, `AddEmployee`-like modules). Adjust features list to match your code.
-
 ## Tech Stack
 
 * Language: C#
@@ -65,8 +63,6 @@
     /Resources
     README.md
 ```
-
-Adjust this section to match the exact folder and file names in your repository.
 
 
 ### Common tables (example)
