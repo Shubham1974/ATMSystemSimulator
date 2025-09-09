@@ -10,7 +10,6 @@
 * [Tech Stack](#tech-stack)
 * [Prerequisites](#prerequisites)
 * [Project Structure](#project-structure)
-* [Database Setup](#database-setup)
 * [How to Run](#how-to-run)
 * [Usage](#usage)
 * [Video](#Video)
@@ -69,16 +68,6 @@
 
 Adjust this section to match the exact folder and file names in your repository.
 
-## Database Setup
-
-1. If you have an `.mdf` file included in the `Data` folder, ensure it is set to be copied to the output directory (Properties -> Copy to Output Directory -> "Copy if newer").
-2. Sample connection string used in the project:
-
-```csharp
-SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\ATMDatabase.mdf;Integrated Security=True;Connect Timeout=30");
-```
-
-3. If your project uses a `.sql` script instead of an `.mdf` file, run the script in SQL Server Management Studio or Visual Studio's Server Explorer to create the database and tables.
 
 ### Common tables (example)
 
@@ -105,8 +94,6 @@ CREATE TABLE TransactionTbl (
 );
 ```
 
-Modify table definitions to match your code.
-
 ## How to Run
 
 1. Open `ATMSystemSimulator.sln` in Visual Studio.
@@ -128,7 +115,6 @@ Modify table definitions to match your code.
 4. Push to the branch: `git push origin feature/YourFeature`
 5. Open a Pull Request
 
-Please include clear commit messages and, when relevant, update the database migration script or `.mdf` file.
 
 ## License
 
