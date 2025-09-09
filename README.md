@@ -13,6 +13,7 @@
 * [Database Setup](#database-setup)
 * [How to Run](#how-to-run)
 * [Usage](#usage)
+* [Video](#Video)
 * [Screenshots](#screenshots)
 * [Contributing](#contributing)
 * [License](#license)
@@ -138,6 +139,10 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 Shubham Bhagwan Mukhekar
 
 Contact: mshubham2503@gmail.com
+
+## Video
+[Watch Demo Video](https://drive.google.com/file/d/1uT0UD4Lki7AvdWouwRLVOZilRlEUSFnb/view?usp=sharing)
+
 
 ## Screenshots
 
